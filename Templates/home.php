@@ -72,31 +72,33 @@
         <div class=" row">
             <div class="feature col-lg-3 col-md-3 col-sm-6 col-xm-12">
                 <div class=" text-center mb-3">
-                    <i class="fa-solid fa-user logo_how_make"></i>
+                    <img src="images/utilisateur.png" alt="" width="30%">
                 </div>
                 <h5 class="text-center">Fiche locative</h5>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <p>Dans un premier temps il vous faudra créer votre fiche locative en mettant des informations exactes dans le but de faciliter les échanges d’information dans vos futures démarches. Veillez donc à vérifier que toutes les informations que vous nous renseignerai soient exacte.</p>
             </div>
             <div class="feature col-lg-3 col-md-3 col-sm-6 col-xm-12">
                 <div class=" text-center mb-3">
-                    <i class="fa-solid fa-folder logo_how_make"></i>
+                <img src="images/ordi.png" alt="" width="30%">
                 </div>
                 <h5 class="text-center">Dossier sécurisé</h5>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <p>Nous récupèrerons votre fiche afin de créer un dossier sécurisé avec toutes vos informations,
+vous pourrez y accéder via votre compte afin de rectifier certaines informations.
+</p>
             </div>
             <div class="feature col-lg-3 col-md-3 col-sm-6 col-xm-122">
                 <div class=" text-center mb-3">
-                    <i class="fa-solid fa-pen logo_how_make"></i>
+                <img src="images/maison.png" alt="" width="30%">
                 </div>
-                <h5 class="text-center">Signature</h5>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <h5 class="text-center">Logement</h5>
+                <p>Vous pouvez maintenant choisir un logement selon vos exigences budgétaires ou autres nous avons une gamme très varier à vous de trouver celle qui vous correspond et donc de la réserver.</p>
 
             </div>
             <div class="feature col-lg-3 col-md-3 col-sm-6 col-xm-12">
                 <div class=" text-center mb-3">
-                    <i class=" fa-solid fa-house logo_how_make"></i>
+                <img src="images/fiche.png" alt="" width="30%">
                 </div>
-                <h5 class="text-center">Logement</h5>
+                <h5 class="text-center">Signature</h5>
                 <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
             </div>
         </div>
