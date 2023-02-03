@@ -99,7 +99,7 @@ vous pourrez y accéder via votre compte afin de rectifier certaines information
                 <img src="images/fiche.png" alt="" width="30%">
                 </div>
                 <h5 class="text-center">Signature</h5>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <p>Une fois </p>
             </div>
         </div>
     </section>
